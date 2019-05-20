@@ -9,7 +9,7 @@ function modificator ( func ) {
 
 testFunc = modificator( sampleFunc )
 
-testFunc() 
+var testFunc() 
 
 // task 2 
 
